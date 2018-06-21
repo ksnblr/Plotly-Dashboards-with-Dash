@@ -1,3 +1,3 @@
 import pandas as pd
-df = pd.read_csv("../Data/flights.csv")
-print (df)
+import numpy as np
+print ([x for x in range(100)])
